@@ -6,9 +6,9 @@
 
 ####Contacts
 
- **Mobile phone:** +375(29)107-06-36
- **E-mail:** sharkovskiymiroslav@gmail.com
- **Discord:** Miraslau(@MIROSLAVSH) 
+ - **Mobile phone:** +375(29)107-06-36
+ - **E-mail:** sharkovskiymiroslav@gmail.com
+ - **Discord:** Miraslau(@MIROSLAVSH) 
 
 ------------
 
