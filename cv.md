@@ -35,8 +35,8 @@ function squareDigits(num){
 
 **Courses**
 
-  -[HTML for beginners](https://ru.code-basics.com/languages/html)
-  -[CSS  for begginers](https://ru.code-basics.com/languages/css)
+  - [HTML for beginners](https://ru.code-basics.com/languages/html)
+  - [CSS  for begginers](https://ru.code-basics.com/languages/css)
   
 --------------
 
