@@ -20,6 +20,7 @@ I decided to do JS / Frontend development, as it makes it possible to create som
 ------------
 
 #### Code exaple
+
 ```
 function squareDigits(num){    
   let numb = '' + num;
@@ -37,3 +38,4 @@ function squareDigits(num){
 --------------
  **Language**
  - English - [A1](https://www.efset.org/quick-check/take-test/#set15-190/result)
+
