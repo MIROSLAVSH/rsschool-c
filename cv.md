@@ -33,9 +33,9 @@ function squareDigits(num){
  ```
 -------------
 **Courses**
-- [HTML for beginners](https://ru.code-basics.com/languages/html)
-- [CSS  for begginers](https://ru.code-basics.com/languages/css)
+  - [HTML for beginners](https://ru.code-basics.com/languages/html)
+  - [CSS  for begginers](https://ru.code-basics.com/languages/css)
 --------------
  **Language**
- - English - [A1](https://www.efset.org/quick-check/take-test/#set15-190/result)
+  - English - [A1](https://www.efset.org/quick-check/take-test/#set15-190/result)
 
