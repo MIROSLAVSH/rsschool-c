@@ -42,4 +42,3 @@ function squareDigits(num){
 
  **Language**
   - English - [A1](https://www.efset.org/quick-check/take-test/#set15-190/result)
-
