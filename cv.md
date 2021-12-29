@@ -22,14 +22,13 @@ I decided to do JS / Frontend development, as it makes it possible to create som
 #### Code exaple
 
 ```
-function squareDigits(num){    
-  let numb = '' + num;
-  let newNum = new Array();
-    numb.split('').map(n => {
-    newNum.push(n**2);
-  })
-  return parseInt(newNum.join(''));
-}
+function isDivideBy(number, a, b) 
+            if (number % a === 0 && number % b === 0) 
+            return true;
+            } else 
+            return false;
+            }
+            }
  ```
 -------------
 
