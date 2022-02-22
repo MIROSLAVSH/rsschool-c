@@ -46,4 +46,3 @@ let toReadable = n => {
              .join(' ');    
  };
 
-console.log(toReadable(32));
