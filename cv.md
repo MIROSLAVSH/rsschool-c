@@ -19,7 +19,7 @@ I decided to do JS / Frontend development, as it makes it possible to create som
 
 ------------
 
-#### Code exaple
+#### Code example
 
 ```
 function isDivideBy(number, a, b) 
