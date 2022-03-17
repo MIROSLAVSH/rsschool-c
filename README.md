@@ -1,4 +1,4 @@
-[# rsschool-cv](https://pedantic-minsky-f4f790.netlify.app/)  
+[# rsschool-cv](https://miroslavsh.github.io/rsschool-cv/cv3)  
 https://miroslavsh.github.io/rsschool-cv/cv
 
 
